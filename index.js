@@ -8,11 +8,13 @@ const db = 'https://replicate.npmjs.com';
 Request.get(db, function(err, req, body) {
   var end_sequence = JSON.parse(body).update_seq;
   var results = [];
-  var bad_words = fs.readFileSync('./bad-words.txt', 'utf-8').split('\n').slice(1, -1);
+  var bad_words = fs.readFileSync('./bad-words.txt', 'utf-8').split('\n').slice(1, -1).map(function(word) {
+    return " " + word + " ";
+  });
   changes(function(change, done) {
     if (change.seq >= end_sequence) {
       fs.writeFileSync("results.txt", JSON.stringify(results, null, 2))
-      done();
+      process.exit(0);
     }
     if (change.doc.name) {
       console.log("checking:" + change.doc.name);
@@ -27,6 +29,7 @@ Request.get(db, function(err, req, body) {
         }
       }
     }
+    done();
   }, {
     db: db,
     include_docs: true
