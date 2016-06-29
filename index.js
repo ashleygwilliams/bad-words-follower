@@ -8,18 +8,19 @@ const db = 'https://replicate.npmjs.com';
 Request.get(db, function(err, req, body) {
   var end_sequence = JSON.parse(body).update_seq;
   var results = [];
-  var bad_words = fs.readFileSync('./bad-words.txt', 'utf-8').split('\n').slice(1, -1).map(function(word) {
+  var bad_words = fs.readFileSync('./bad-words.txt', 'utf-8').split('\n').slice(0, -1).map(function(word) {
     return " " + word + " ";
   });
+  console.log(JSON.stringify(bad_words));
   changes(function(change, done) {
     if (change.seq >= end_sequence) {
       fs.writeFileSync("results.txt", JSON.stringify(results, null, 2))
       process.exit(0);
     }
-    if (change.doc.name) {
+    if (change.doc.name && change.doc.readme) {
       console.log("checking:" + change.doc.name);
       for(var i = 0; i < bad_words.length; i++) {
-        if ((change.doc.name).match(bad_words[i])) {
+        if (JSON.stringify(change.doc.readme).match(bad_words[i])) {
           console.log("found " + bad_words[i]);
           var hit = {
             "name":  change.doc.name,
