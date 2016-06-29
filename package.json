@@ -1,0 +1,24 @@
+{
+  "name": "bad-words-follower",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashleygwilliams/bad-words-follower.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashleygwilliams/bad-words-follower/issues"
+  },
+  "homepage": "https://github.com/ashleygwilliams/bad-words-follower#readme",
+  "dependencies": {
+    "concurrent-couch-follower": "^1.1.0",
+    "request": "^2.72.0"
+  }
+}
