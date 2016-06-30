@@ -1,0 +1,4098 @@
+[
+  {
+    "name": "now-mongoose",
+    "word": " hell "
+  },
+  {
+    "name": "cut-a-release",
+    "word": " damn "
+  },
+  {
+    "name": "crutch",
+    "word": " shit "
+  },
+  {
+    "name": "lolqueue",
+    "word": " fucking "
+  },
+  {
+    "name": "LiveController",
+    "word": " shitty "
+  },
+  {
+    "name": "restmvc",
+    "word": " crap "
+  },
+  {
+    "name": "keyvaluecoding",
+    "word": " arse "
+  },
+  {
+    "name": "head-hunter",
+    "word": " damn "
+  },
+  {
+    "name": "css-slap-chop",
+    "word": " fucking "
+  },
+  {
+    "name": "notarise",
+    "word": " ass "
+  },
+  {
+    "name": "notarize",
+    "word": " ass "
+  },
+  {
+    "name": "s4",
+    "word": " fuck "
+  },
+  {
+    "name": "phony",
+    "word": " cum "
+  },
+  {
+    "name": "csi",
+    "word": " crap "
+  },
+  {
+    "name": "cassette-express",
+    "word": " bloody "
+  },
+  {
+    "name": "asyncStorage",
+    "word": " fuck "
+  },
+  {
+    "name": "asyncStorage",
+    "word": " hell "
+  },
+  {
+    "name": "citizenmedianotary",
+    "word": " ass "
+  },
+  {
+    "name": "safe_datejs",
+    "word": " screwing "
+  },
+  {
+    "name": "wang",
+    "word": " wang "
+  },
+  {
+    "name": "routil-static",
+    "word": " shit "
+  },
+  {
+    "name": "editr",
+    "word": " hell "
+  },
+  {
+    "name": "command-news",
+    "word": " bastard "
+  },
+  {
+    "name": "better-buffer",
+    "word": " shitty "
+  },
+  {
+    "name": "ender-swig",
+    "word": " fuck "
+  },
+  {
+    "name": "pitboss",
+    "word": " damn "
+  },
+  {
+    "name": "pitboss",
+    "word": " fuck "
+  },
+  {
+    "name": "pitboss",
+    "word": " shitty "
+  },
+  {
+    "name": "util-ext",
+    "word": " fuck "
+  },
+  {
+    "name": "util-ext",
+    "word": " shitty "
+  },
+  {
+    "name": "jsonraver",
+    "word": " shit "
+  },
+  {
+    "name": "square-wiiv",
+    "word": " fucking "
+  },
+  {
+    "name": "hybrid-map",
+    "word": " bloody "
+  },
+  {
+    "name": "pong-mmo-server",
+    "word": " balls "
+  },
+  {
+    "name": "sanitize-arguments",
+    "word": " fucks "
+  },
+  {
+    "name": "wxi-flavored-markdown",
+    "word": " cum "
+  },
+  {
+    "name": "shaft",
+    "word": " damn "
+  },
+  {
+    "name": "hacker-news-parser",
+    "word": " shitty "
+  },
+  {
+    "name": "pbj",
+    "word": " God "
+  },
+  {
+    "name": "grunt-bb-generate",
+    "word": " fucking "
+  },
+  {
+    "name": "robobuster",
+    "word": " crap "
+  },
+  {
+    "name": "fee",
+    "word": " fag "
+  },
+  {
+    "name": "inliner2",
+    "word": " crap "
+  },
+  {
+    "name": "spatial-grid",
+    "word": " crap "
+  },
+  {
+    "name": "toml-node",
+    "word": " crap "
+  },
+  {
+    "name": "cordell",
+    "word": " mofo "
+  },
+  {
+    "name": "wish",
+    "word": " damn "
+  },
+  {
+    "name": "express-middleware-readme.md",
+    "word": " crap "
+  },
+  {
+    "name": "sensor",
+    "word": " goddamn "
+  },
+  {
+    "name": "javascript.js",
+    "word": " ass "
+  },
+  {
+    "name": "moment.twitter",
+    "word": " ass "
+  },
+  {
+    "name": "yoyaku",
+    "word": " hell "
+  },
+  {
+    "name": "pushbutt",
+    "word": " butt "
+  },
+  {
+    "name": "loot",
+    "word": " anal "
+  },
+  {
+    "name": "stoic",
+    "word": " hell "
+  },
+  {
+    "name": "id8",
+    "word": " hell "
+  },
+  {
+    "name": "stroem-kid",
+    "word": " crap "
+  },
+  {
+    "name": "xvideos",
+    "word": " sex "
+  },
+  {
+    "name": "dynd.js",
+    "word": " bloody "
+  },
+  {
+    "name": "wideor",
+    "word": " crap "
+  },
+  {
+    "name": "kyu-s",
+    "word": " fuck "
+  },
+  {
+    "name": "fresher",
+    "word": " shit "
+  },
+  {
+    "name": "touchstone",
+    "word": " xxx "
+  },
+  {
+    "name": "waaa",
+    "word": " arse "
+  },
+  {
+    "name": "component-search",
+    "word": " shit "
+  },
+  {
+    "name": "sncf-delays",
+    "word": " retard "
+  },
+  {
+    "name": "unit-testling",
+    "word": " hell "
+  },
+  {
+    "name": "html-lang",
+    "word": " fucking "
+  },
+  {
+    "name": "backbone.viewmodel",
+    "word": " knob "
+  },
+  {
+    "name": "connect-fonts-shadows-into-light",
+    "word": " God "
+  },
+  {
+    "name": "databank-memcached",
+    "word": " crap "
+  },
+  {
+    "name": "sqlite3-webapi-kit",
+    "word": " sex "
+  },
+  {
+    "name": "phone-parser",
+    "word": " xxx "
+  },
+  {
+    "name": "bone.io-textsearch",
+    "word": " cock "
+  },
+  {
+    "name": "int-packer",
+    "word": " sex "
+  },
+  {
+    "name": "poseidon-memcached",
+    "word": " hell "
+  },
+  {
+    "name": "coffeecup",
+    "word": " hell "
+  },
+  {
+    "name": "result-type",
+    "word": " fuck "
+  },
+  {
+    "name": "couchdb-simple",
+    "word": " crap "
+  },
+  {
+    "name": "array-splice",
+    "word": " fucking "
+  },
+  {
+    "name": "termbox",
+    "word": " shit "
+  },
+  {
+    "name": "api-schema",
+    "word": " shit "
+  },
+  {
+    "name": "rex-shell",
+    "word": " fucked "
+  },
+  {
+    "name": "thinair",
+    "word": " ass "
+  },
+  {
+    "name": "grumpp",
+    "word": " fucking "
+  },
+  {
+    "name": "grumpp",
+    "word": " shit "
+  },
+  {
+    "name": "pill",
+    "word": " damn "
+  },
+  {
+    "name": "bounscale",
+    "word": " knob "
+  },
+  {
+    "name": "elasticsearch-memcache",
+    "word": " ass "
+  },
+  {
+    "name": "ember-brunch-scaffold",
+    "word": " ass "
+  },
+  {
+    "name": "icosahedron",
+    "word": " crap "
+  },
+  {
+    "name": "dequeue",
+    "word": " hell "
+  },
+  {
+    "name": "oryql",
+    "word": " prick "
+  },
+  {
+    "name": "modella-friendly-errors",
+    "word": " hell "
+  },
+  {
+    "name": "holler",
+    "word": " hell "
+  },
+  {
+    "name": "level-mirror",
+    "word": " fanny "
+  },
+  {
+    "name": "domthen",
+    "word": " fucking "
+  },
+  {
+    "name": "traversty",
+    "word": " nazi "
+  },
+  {
+    "name": "stats-api",
+    "word": " cock "
+  },
+  {
+    "name": "stats-api",
+    "word": " crap "
+  },
+  {
+    "name": "verbotenjs",
+    "word": " damn "
+  },
+  {
+    "name": "elasticmq",
+    "word": " hell "
+  },
+  {
+    "name": "couchdb-push-interceptor",
+    "word": " hell "
+  },
+  {
+    "name": "safe-async",
+    "word": " damn "
+  },
+  {
+    "name": "cameron-streams",
+    "word": " ass "
+  },
+  {
+    "name": "chronometer",
+    "word": " ass "
+  },
+  {
+    "name": "wiiv-square",
+    "word": " fucking "
+  },
+  {
+    "name": "rolling-file-transport",
+    "word": " ass "
+  },
+  {
+    "name": "impermium",
+    "word": " viagra "
+  },
+  {
+    "name": "kickass-to",
+    "word": " ass "
+  },
+  {
+    "name": "grunt-profanities",
+    "word": " crap "
+  },
+  {
+    "name": "itself",
+    "word": " damn "
+  },
+  {
+    "name": "minnahtml",
+    "word": " hell "
+  },
+  {
+    "name": "json2-browser",
+    "word": " xxx "
+  },
+  {
+    "name": "fenpgn-evaluator",
+    "word": " pawn "
+  },
+  {
+    "name": "bootstrap-browser",
+    "word": " xxx "
+  },
+  {
+    "name": "requirejs-browser",
+    "word": " xxx "
+  },
+  {
+    "name": "jquery1-browser",
+    "word": " xxx "
+  },
+  {
+    "name": "handlebars-browser",
+    "word": " xxx "
+  },
+  {
+    "name": "hbs-browser",
+    "word": " xxx "
+  },
+  {
+    "name": "azuretablebackup",
+    "word": " xxx "
+  },
+  {
+    "name": "coffee-trace",
+    "word": " damn "
+  },
+  {
+    "name": "coffee-trace",
+    "word": " masochist "
+  },
+  {
+    "name": "markem",
+    "word": " hell "
+  },
+  {
+    "name": "facebook-complete",
+    "word": " hell "
+  },
+  {
+    "name": "recurring-date",
+    "word": " balls "
+  },
+  {
+    "name": "videohub",
+    "word": " shitty "
+  },
+  {
+    "name": "bumm",
+    "word": " bum "
+  },
+  {
+    "name": "trequire",
+    "word": " hell "
+  },
+  {
+    "name": "pong.js",
+    "word": " balls "
+  },
+  {
+    "name": "parallel-es6",
+    "word": " hell "
+  },
+  {
+    "name": "buildfirst-ci-by-example",
+    "word": " damn "
+  },
+  {
+    "name": "fastworks",
+    "word": " hell "
+  },
+  {
+    "name": "godot-redis",
+    "word": " damn "
+  },
+  {
+    "name": "ep_air",
+    "word": " hell "
+  },
+  {
+    "name": "generator-angular-phonegap",
+    "word": " hell "
+  },
+  {
+    "name": "clazz-js",
+    "word": " sex "
+  },
+  {
+    "name": "jilla",
+    "word": " damn "
+  },
+  {
+    "name": "git-script",
+    "word": " shit "
+  },
+  {
+    "name": "polpetta",
+    "word": " damn "
+  },
+  {
+    "name": "jerk",
+    "word": " goddamn "
+  },
+  {
+    "name": "unwise",
+    "word": " bloody "
+  },
+  {
+    "name": "wait.for-es6",
+    "word": " hell "
+  },
+  {
+    "name": "lies",
+    "word": " fuck "
+  },
+  {
+    "name": "pipe-table",
+    "word": " poop "
+  },
+  {
+    "name": "hubot-imgur_puns",
+    "word": " hell "
+  },
+  {
+    "name": "toc",
+    "word": " hell "
+  },
+  {
+    "name": "bastard",
+    "word": " bastard "
+  },
+  {
+    "name": "clogjs",
+    "word": " ass "
+  },
+  {
+    "name": "promise-attempt",
+    "word": " hell "
+  },
+  {
+    "name": "mustache-for-chromeapps",
+    "word": " ass "
+  },
+  {
+    "name": "regret",
+    "word": " hell "
+  },
+  {
+    "name": "sip-client",
+    "word": " fuck "
+  },
+  {
+    "name": "hapi-mongoose-handler",
+    "word": " shit "
+  },
+  {
+    "name": "curried",
+    "word": " hell "
+  },
+  {
+    "name": "ohdear",
+    "word": " feck "
+  },
+  {
+    "name": "eep",
+    "word": " crap "
+  },
+  {
+    "name": "connect-mongolotion",
+    "word": " fucking "
+  },
+  {
+    "name": "v8plus",
+    "word": " fuck "
+  },
+  {
+    "name": "dogeinator",
+    "word": " piss "
+  },
+  {
+    "name": "modeler",
+    "word": " hell "
+  },
+  {
+    "name": "modeler",
+    "word": " shit "
+  },
+  {
+    "name": "mongo-gyro",
+    "word": " hell "
+  },
+  {
+    "name": "cutlass",
+    "word": " ass "
+  },
+  {
+    "name": "level-path-index",
+    "word": " ass "
+  },
+  {
+    "name": "sewer",
+    "word": " crap "
+  },
+  {
+    "name": "machina.postal",
+    "word": " God "
+  },
+  {
+    "name": "everythingawful",
+    "word": " God "
+  },
+  {
+    "name": "flickr-sync",
+    "word": " ass "
+  },
+  {
+    "name": "sprite.js",
+    "word": " hell "
+  },
+  {
+    "name": "jfdi",
+    "word": " damn "
+  },
+  {
+    "name": "sauce-fbgraph",
+    "word": " hell "
+  },
+  {
+    "name": "bearbone",
+    "word": " fucking "
+  },
+  {
+    "name": "css-em-grid",
+    "word": " pisses "
+  },
+  {
+    "name": "loch",
+    "word": " sex "
+  },
+  {
+    "name": "ngineer",
+    "word": " arse "
+  },
+  {
+    "name": "flow-waterfall",
+    "word": " hell "
+  },
+  {
+    "name": "stan",
+    "word": " butt "
+  },
+  {
+    "name": "hubot-dinner",
+    "word": " fucking "
+  },
+  {
+    "name": "rtkapi",
+    "word": " damn "
+  },
+  {
+    "name": "rarity",
+    "word": " shitty "
+  },
+  {
+    "name": "lwink",
+    "word": " damn "
+  },
+  {
+    "name": "coju",
+    "word": " shit "
+  },
+  {
+    "name": "hextor",
+    "word": " God "
+  },
+  {
+    "name": "fireworks",
+    "word": " shit "
+  },
+  {
+    "name": "touchngo",
+    "word": " crap "
+  },
+  {
+    "name": "crushyourfoes",
+    "word": " hell "
+  },
+  {
+    "name": "stik-core",
+    "word": " hell "
+  },
+  {
+    "name": "get-super",
+    "word": " bastard "
+  },
+  {
+    "name": "caphe",
+    "word": " homo "
+  },
+  {
+    "name": "obender",
+    "word": " hell "
+  },
+  {
+    "name": "clit",
+    "word": " clit "
+  },
+  {
+    "name": "dark-roast",
+    "word": " hell "
+  },
+  {
+    "name": "marvin-ai",
+    "word": " God "
+  },
+  {
+    "name": "anagrams",
+    "word": " ass "
+  },
+  {
+    "name": "vagina",
+    "word": " vagina "
+  },
+  {
+    "name": "namp",
+    "word": " damn "
+  },
+  {
+    "name": "serialize-js",
+    "word": " damn "
+  },
+  {
+    "name": "keybase-bitcoinjs-lib",
+    "word": " crap "
+  },
+  {
+    "name": "scorebook",
+    "word": " balls "
+  },
+  {
+    "name": "validations",
+    "word": " hell "
+  },
+  {
+    "name": "mystik",
+    "word": " porn "
+  },
+  {
+    "name": "furkan",
+    "word": " damn "
+  },
+  {
+    "name": "generator-style-prototype",
+    "word": " ass "
+  },
+  {
+    "name": "jmao",
+    "word": " xxx "
+  },
+  {
+    "name": "nvi",
+    "word": " shit "
+  },
+  {
+    "name": "thusspokenpc",
+    "word": " sex "
+  },
+  {
+    "name": "foaas-client",
+    "word": " fuck "
+  },
+  {
+    "name": "shunt",
+    "word": " shit "
+  },
+  {
+    "name": "baconpi",
+    "word": " bitching "
+  },
+  {
+    "name": "baconpi",
+    "word": " dick "
+  },
+  {
+    "name": "typescript-compile",
+    "word": " xxx "
+  },
+  {
+    "name": "cutarelease",
+    "word": " damn "
+  },
+  {
+    "name": "ass",
+    "word": " ass "
+  },
+  {
+    "name": "intaglio",
+    "word": " fuck "
+  },
+  {
+    "name": "jglogger",
+    "word": " shit "
+  },
+  {
+    "name": "dy.js",
+    "word": " bloody "
+  },
+  {
+    "name": "dy.js",
+    "word": " hell "
+  },
+  {
+    "name": "leak-map",
+    "word": " shit "
+  },
+  {
+    "name": "prepush-githook",
+    "word": " xxx "
+  },
+  {
+    "name": "jinn",
+    "word": " ass "
+  },
+  {
+    "name": "meh",
+    "word": " fuck "
+  },
+  {
+    "name": "coon",
+    "word": " coon "
+  },
+  {
+    "name": "supercli",
+    "word": " fucked "
+  },
+  {
+    "name": "psn",
+    "word": " ass "
+  },
+  {
+    "name": "psn",
+    "word": " shitty "
+  },
+  {
+    "name": "sonido",
+    "word": " shit "
+  },
+  {
+    "name": "promised-jugglingdb",
+    "word": " hell "
+  },
+  {
+    "name": "iz-objects",
+    "word": " hell "
+  },
+  {
+    "name": "gulp-sym",
+    "word": " shit "
+  },
+  {
+    "name": "passport-remember-me-pro",
+    "word": " asses "
+  },
+  {
+    "name": "atom-css",
+    "word": " shitty "
+  },
+  {
+    "name": "pecker",
+    "word": " pecker "
+  },
+  {
+    "name": "neder",
+    "word": " mofo "
+  },
+  {
+    "name": "threejs-material-preview",
+    "word": " balls "
+  },
+  {
+    "name": "threejs-orbitingballs",
+    "word": " balls "
+  },
+  {
+    "name": "string-gender",
+    "word": " sex "
+  },
+  {
+    "name": "tileslideshow",
+    "word": " hell "
+  },
+  {
+    "name": "coffeebone",
+    "word": " crap "
+  },
+  {
+    "name": "html-to-ssml",
+    "word": " hell "
+  },
+  {
+    "name": "html-to-ssml",
+    "word": " titties "
+  },
+  {
+    "name": "express-to-slash",
+    "word": " anal "
+  },
+  {
+    "name": "stacktic",
+    "word": " cum "
+  },
+  {
+    "name": "underscore-tpl",
+    "word": " mofo "
+  },
+  {
+    "name": "shitty-peg",
+    "word": " shitty "
+  },
+  {
+    "name": "sirportly-api",
+    "word": " ass "
+  },
+  {
+    "name": "corner.js",
+    "word": " damn "
+  },
+  {
+    "name": "ember-cli-knob",
+    "word": " knob "
+  },
+  {
+    "name": "stateful-context",
+    "word": " hell "
+  },
+  {
+    "name": "debug-replacer",
+    "word": " shit "
+  },
+  {
+    "name": "chess960.js",
+    "word": " pawn "
+  },
+  {
+    "name": "s3client",
+    "word": " xxx "
+  },
+  {
+    "name": "timplate",
+    "word": " damn "
+  },
+  {
+    "name": "knobjs",
+    "word": " knob "
+  },
+  {
+    "name": "express-slash",
+    "word": " anal "
+  },
+  {
+    "name": "dms",
+    "word": " hell "
+  },
+  {
+    "name": "gerar-cpf",
+    "word": " xxx "
+  },
+  {
+    "name": "nodebb-plugin-butt",
+    "word": " butt "
+  },
+  {
+    "name": "reader-beware",
+    "word": " butt "
+  },
+  {
+    "name": "door-guard",
+    "word": " bloody "
+  },
+  {
+    "name": "the-devil",
+    "word": " piss "
+  },
+  {
+    "name": "profanity65",
+    "word": " anal "
+  },
+  {
+    "name": "profanity65",
+    "word": " ass "
+  },
+  {
+    "name": "profanity65",
+    "word": " asshole "
+  },
+  {
+    "name": "profanity65",
+    "word": " balls "
+  },
+  {
+    "name": "profanity65",
+    "word": " bastard "
+  },
+  {
+    "name": "profanity65",
+    "word": " bitch "
+  },
+  {
+    "name": "profanity65",
+    "word": " cock "
+  },
+  {
+    "name": "profanity65",
+    "word": " crap "
+  },
+  {
+    "name": "profanity65",
+    "word": " cunt "
+  },
+  {
+    "name": "profanity65",
+    "word": " damn "
+  },
+  {
+    "name": "profanity65",
+    "word": " dick "
+  },
+  {
+    "name": "profanity65",
+    "word": " dickhead "
+  },
+  {
+    "name": "profanity65",
+    "word": " dildo "
+  },
+  {
+    "name": "profanity65",
+    "word": " fanny "
+  },
+  {
+    "name": "profanity65",
+    "word": " fuck "
+  },
+  {
+    "name": "profanity65",
+    "word": " fucker "
+  },
+  {
+    "name": "profanity65",
+    "word": " fucking "
+  },
+  {
+    "name": "profanity65",
+    "word": " goddamn "
+  },
+  {
+    "name": "profanity65",
+    "word": " motherfucker "
+  },
+  {
+    "name": "profanity65",
+    "word": " motherfucking "
+  },
+  {
+    "name": "profanity65",
+    "word": " piss "
+  },
+  {
+    "name": "profanity65",
+    "word": " pussy "
+  },
+  {
+    "name": "profanity65",
+    "word": " shit "
+  },
+  {
+    "name": "profanity65",
+    "word": " shitter "
+  },
+  {
+    "name": "profanity65",
+    "word": " skank "
+  },
+  {
+    "name": "profanity65",
+    "word": " slut "
+  },
+  {
+    "name": "profanity65",
+    "word": " tit "
+  },
+  {
+    "name": "profanity65",
+    "word": " turd "
+  },
+  {
+    "name": "profanity65",
+    "word": " twat "
+  },
+  {
+    "name": "profanity65",
+    "word": " wanker "
+  },
+  {
+    "name": "profanity65",
+    "word": " whore "
+  },
+  {
+    "name": "hubot-ikr",
+    "word": " shit "
+  },
+  {
+    "name": "brofist-browser",
+    "word": " fuck "
+  },
+  {
+    "name": "brofist-tap",
+    "word": " fuck "
+  },
+  {
+    "name": "buddy-tap",
+    "word": " fuck "
+  },
+  {
+    "name": "forge",
+    "word": " fucking "
+  },
+  {
+    "name": "alipay-verify",
+    "word": " damn "
+  },
+  {
+    "name": "skywalker",
+    "word": " hell "
+  },
+  {
+    "name": "skywalker",
+    "word": " shit "
+  },
+  {
+    "name": "simple-pid",
+    "word": " damn "
+  },
+  {
+    "name": "jenga",
+    "word": " fuck "
+  },
+  {
+    "name": "filestube-client",
+    "word": " shitty "
+  },
+  {
+    "name": "mustache-ref",
+    "word": " ass "
+  },
+  {
+    "name": "credulous",
+    "word": " viagra "
+  },
+  {
+    "name": "sequence-js",
+    "word": " shitty "
+  },
+  {
+    "name": "bromote",
+    "word": " damn "
+  },
+  {
+    "name": "multinomial-pmf",
+    "word": " balls "
+  },
+  {
+    "name": "pendulumjs",
+    "word": " balls "
+  },
+  {
+    "name": "buddy-browser",
+    "word": " fuck "
+  },
+  {
+    "name": "ekho",
+    "word": " fucking "
+  },
+  {
+    "name": "oid-sort-ids",
+    "word": " ass "
+  },
+  {
+    "name": "mongosmash",
+    "word": " pawn "
+  },
+  {
+    "name": "level-naive-bayes",
+    "word": " shitty "
+  },
+  {
+    "name": "fb-spam",
+    "word": " shit "
+  },
+  {
+    "name": "conventional",
+    "word": " fucking "
+  },
+  {
+    "name": "symbolic",
+    "word": " hell "
+  },
+  {
+    "name": "node-stores",
+    "word": " hell "
+  },
+  {
+    "name": "jdd",
+    "word": " xxx "
+  },
+  {
+    "name": "dweomer",
+    "word": " butt "
+  },
+  {
+    "name": "worklight-build",
+    "word": " bloody "
+  },
+  {
+    "name": "worklight-build",
+    "word": " fuck "
+  },
+  {
+    "name": "hs-card-search",
+    "word": " crap "
+  },
+  {
+    "name": "butt",
+    "word": " butt "
+  },
+  {
+    "name": "generator-ee-foundation",
+    "word": " damn "
+  },
+  {
+    "name": "es6-node-iterator",
+    "word": " fuck "
+  },
+  {
+    "name": "muplates",
+    "word": " xxx "
+  },
+  {
+    "name": "protogram-help",
+    "word": " xxx "
+  },
+  {
+    "name": "cachepuncher",
+    "word": " cock "
+  },
+  {
+    "name": "xonek2",
+    "word": " knob "
+  },
+  {
+    "name": "forward-proxy",
+    "word": " xxx "
+  },
+  {
+    "name": "localize.js",
+    "word": " fucks "
+  },
+  {
+    "name": "z-localize",
+    "word": " fucks "
+  },
+  {
+    "name": "orcli",
+    "word": " butt "
+  },
+  {
+    "name": "reactty",
+    "word": " shit "
+  },
+  {
+    "name": "npm-research",
+    "word": " balls "
+  },
+  {
+    "name": "grunt-csv-json",
+    "word": " sex "
+  },
+  {
+    "name": "bail-out",
+    "word": " ass "
+  },
+  {
+    "name": "btc-stats",
+    "word": " xxx "
+  },
+  {
+    "name": "smartthings",
+    "word": " arse "
+  },
+  {
+    "name": "canihaz",
+    "word": " crap "
+  },
+  {
+    "name": "readystate",
+    "word": " fuck "
+  },
+  {
+    "name": "square",
+    "word": " fucking "
+  },
+  {
+    "name": "uni",
+    "word": " crap "
+  },
+  {
+    "name": "zoidberg",
+    "word": " fuck "
+  },
+  {
+    "name": "zoidberg",
+    "word": " fucking "
+  },
+  {
+    "name": "eventreactor",
+    "word": " xxx "
+  },
+  {
+    "name": "license-extractor",
+    "word": " ass "
+  },
+  {
+    "name": "chrome-serialport",
+    "word": " xxx "
+  },
+  {
+    "name": "dom-knob",
+    "word": " knob "
+  },
+  {
+    "name": "sniffle",
+    "word": " crap "
+  },
+  {
+    "name": "sniffle",
+    "word": " damn "
+  },
+  {
+    "name": "generator-fred",
+    "word": " crap "
+  },
+  {
+    "name": "tflobby",
+    "word": " dick "
+  },
+  {
+    "name": "aassert",
+    "word": " anal "
+  },
+  {
+    "name": "cpupdate",
+    "word": " hell "
+  },
+  {
+    "name": "dog.js",
+    "word": " butt "
+  },
+  {
+    "name": "moardeps",
+    "word": " shit "
+  },
+  {
+    "name": "bind-to-route53",
+    "word": " ass "
+  },
+  {
+    "name": "cheatcode",
+    "word": " fux "
+  },
+  {
+    "name": "fucks",
+    "word": " fuck "
+  },
+  {
+    "name": "fucks",
+    "word": " fucks "
+  },
+  {
+    "name": "fuzzymap",
+    "word": " fcuk "
+  },
+  {
+    "name": "grunt-macreload",
+    "word": " shit "
+  },
+  {
+    "name": "ledctl",
+    "word": " hell "
+  },
+  {
+    "name": "reacto",
+    "word": " butt "
+  },
+  {
+    "name": "myelements.jquery",
+    "word": " xxx "
+  },
+  {
+    "name": "hoar",
+    "word": " hoar "
+  },
+  {
+    "name": "bolgia",
+    "word": " hell "
+  },
+  {
+    "name": "koslider",
+    "word": " cum "
+  },
+  {
+    "name": "dalkomsft",
+    "word": " fuck "
+  },
+  {
+    "name": "hardboiled",
+    "word": " hell "
+  },
+  {
+    "name": "github-api-base",
+    "word": " screwing "
+  },
+  {
+    "name": "react-gooey-nav",
+    "word": " shit "
+  },
+  {
+    "name": "shitisms",
+    "word": " shit "
+  },
+  {
+    "name": "look-at-that-pojo",
+    "word": " screwing "
+  },
+  {
+    "name": "uber.js",
+    "word": " damn "
+  },
+  {
+    "name": "bee.js",
+    "word": " fucking "
+  },
+  {
+    "name": "live-templates",
+    "word": " screwing "
+  },
+  {
+    "name": "squabble",
+    "word": " hell "
+  },
+  {
+    "name": "composed-validations",
+    "word": " damn "
+  },
+  {
+    "name": "touch-screen",
+    "word": " damn "
+  },
+  {
+    "name": "grunt-git-newer",
+    "word": " damn "
+  },
+  {
+    "name": "hi-base32",
+    "word": " lust "
+  },
+  {
+    "name": "frizzle",
+    "word": " dick "
+  },
+  {
+    "name": "loggit",
+    "word": " shit "
+  },
+  {
+    "name": "peach-god",
+    "word": " God "
+  },
+  {
+    "name": "ember-rocks",
+    "word": " hell "
+  },
+  {
+    "name": "generator-yosapy",
+    "word": " hell "
+  },
+  {
+    "name": "shelloid",
+    "word": " hell "
+  },
+  {
+    "name": "leaked-handles",
+    "word": " hell "
+  },
+  {
+    "name": "leeroy-jenkins",
+    "word": " shit "
+  },
+  {
+    "name": "flumine",
+    "word": " xxx "
+  },
+  {
+    "name": "js-format",
+    "word": " fuck "
+  },
+  {
+    "name": "divx",
+    "word": " cok "
+  },
+  {
+    "name": "boganipsum",
+    "word": " bloody "
+  },
+  {
+    "name": "boganipsum",
+    "word": " piss "
+  },
+  {
+    "name": "censorifymystuff",
+    "word": " shit "
+  },
+  {
+    "name": "hexr-hshg",
+    "word": " shit "
+  },
+  {
+    "name": "poop-predictor",
+    "word": " poop "
+  },
+  {
+    "name": "poop-predictor",
+    "word": " shitting "
+  },
+  {
+    "name": "39f-callbacks",
+    "word": " hell "
+  },
+  {
+    "name": "browser-dht",
+    "word": " damn "
+  },
+  {
+    "name": "running-death-overdrive",
+    "word": " goddamn "
+  },
+  {
+    "name": "lone",
+    "word": " crap "
+  },
+  {
+    "name": "funclet",
+    "word": " hell "
+  },
+  {
+    "name": "siteswap-generator",
+    "word": " balls "
+  },
+  {
+    "name": "s3front",
+    "word": " xxx "
+  },
+  {
+    "name": "crazy.circles",
+    "word": " balls "
+  },
+  {
+    "name": "zenv",
+    "word": " piss "
+  },
+  {
+    "name": "flocks.js",
+    "word": " hell "
+  },
+  {
+    "name": "tx-debugger",
+    "word": " hell "
+  },
+  {
+    "name": "aboveaveragescript",
+    "word": " hell "
+  },
+  {
+    "name": "roots-static",
+    "word": " ass "
+  },
+  {
+    "name": "roots-static",
+    "word": " shit "
+  },
+  {
+    "name": "gnob",
+    "word": " knob "
+  },
+  {
+    "name": "excess",
+    "word": " hell "
+  },
+  {
+    "name": "asbs-lib",
+    "word": " bastard "
+  },
+  {
+    "name": "json-schema-doc",
+    "word": " sex "
+  },
+  {
+    "name": "chessli.js",
+    "word": " pawn "
+  },
+  {
+    "name": "unfurler",
+    "word": " crap "
+  },
+  {
+    "name": "dotcall",
+    "word": " hell "
+  },
+  {
+    "name": "lib-config-etcd",
+    "word": " xxx "
+  },
+  {
+    "name": "pgx",
+    "word": " hell "
+  },
+  {
+    "name": "then-make",
+    "word": " hell "
+  },
+  {
+    "name": "speckling",
+    "word": " hell "
+  },
+  {
+    "name": "wage",
+    "word": " damn "
+  },
+  {
+    "name": "qevents",
+    "word": " hell "
+  },
+  {
+    "name": "nd",
+    "word": " shit "
+  },
+  {
+    "name": "gulp-mean-seed",
+    "word": " shit "
+  },
+  {
+    "name": "bikini",
+    "word": " damn "
+  },
+  {
+    "name": "junglist",
+    "word": " ass "
+  },
+  {
+    "name": "ass-styles",
+    "word": " ass "
+  },
+  {
+    "name": "flood-detector",
+    "word": " damn "
+  },
+  {
+    "name": "autocrat",
+    "word": " damn "
+  },
+  {
+    "name": "autocrat",
+    "word": " hell "
+  },
+  {
+    "name": "zig",
+    "word": " hell "
+  },
+  {
+    "name": "gobble-replace",
+    "word": " anal "
+  },
+  {
+    "name": "haste-server",
+    "word": " damn "
+  },
+  {
+    "name": "tessel-thermalprinter",
+    "word": " shit "
+  },
+  {
+    "name": "svg-dial",
+    "word": " knob "
+  },
+  {
+    "name": "continuate",
+    "word": " hell "
+  },
+  {
+    "name": "jquerygo",
+    "word": " hell "
+  },
+  {
+    "name": "svg-sprite-data",
+    "word": " shit "
+  },
+  {
+    "name": "generator-muzzley-manager",
+    "word": " hell "
+  },
+  {
+    "name": "gen-cli",
+    "word": " xxx "
+  },
+  {
+    "name": "hubot-poker",
+    "word": " screwing "
+  },
+  {
+    "name": "lijsp",
+    "word": " fuck "
+  },
+  {
+    "name": "git-fetcher",
+    "word": " ass "
+  },
+  {
+    "name": "cordova-plugin-compile-time",
+    "word": " xxx "
+  },
+  {
+    "name": "superterp",
+    "word": " turd "
+  },
+  {
+    "name": "bitcoinjs-lib-bi",
+    "word": " crap "
+  },
+  {
+    "name": "aureooms-js-partition",
+    "word": " hoare "
+  },
+  {
+    "name": "yo-helper",
+    "word": " xxx "
+  },
+  {
+    "name": "astack",
+    "word": " hell "
+  },
+  {
+    "name": "human-highlighter",
+    "word": " shit "
+  },
+  {
+    "name": "colorbox",
+    "word": " snatch "
+  },
+  {
+    "name": "clusterizr",
+    "word": " ass "
+  },
+  {
+    "name": "clinch",
+    "word": " knob "
+  },
+  {
+    "name": "multiversed",
+    "word": " damn "
+  },
+  {
+    "name": "@mohayonao/launch-control",
+    "word": " knob "
+  },
+  {
+    "name": "pea",
+    "word": " hell "
+  },
+  {
+    "name": "coleman-dispatcher",
+    "word": " fucked "
+  },
+  {
+    "name": "coleman-dispatcher",
+    "word": " fucking "
+  },
+  {
+    "name": "scrimshaw",
+    "word": " sex "
+  },
+  {
+    "name": "express-delay",
+    "word": " damn "
+  },
+  {
+    "name": "snapjs",
+    "word": " ass "
+  },
+  {
+    "name": "nark",
+    "word": " shit "
+  },
+  {
+    "name": "voat",
+    "word": " poop "
+  },
+  {
+    "name": "ponyshow-cli",
+    "word": " damn "
+  },
+  {
+    "name": "potcoinjs-lib",
+    "word": " crap "
+  },
+  {
+    "name": "lovelace",
+    "word": " crap "
+  },
+  {
+    "name": "just-parse",
+    "word": " goddamn "
+  },
+  {
+    "name": "krc_math_example",
+    "word": " cunt "
+  },
+  {
+    "name": "transform-markdown-mathmode",
+    "word": " butt "
+  },
+  {
+    "name": "json-path-processor",
+    "word": " hell "
+  },
+  {
+    "name": "@yuanqing/sticky",
+    "word": " cum "
+  },
+  {
+    "name": "event-sender",
+    "word": " hell "
+  },
+  {
+    "name": "kaboom",
+    "word": " ass "
+  },
+  {
+    "name": "oh-crap",
+    "word": " crap "
+  },
+  {
+    "name": "showdown-ghost",
+    "word": " screwing "
+  },
+  {
+    "name": "dataio",
+    "word": " fucking "
+  },
+  {
+    "name": "zombiebox-platform-tvip",
+    "word": " xxx "
+  },
+  {
+    "name": "burrp",
+    "word": " ass "
+  },
+  {
+    "name": "democracyos-snap.js",
+    "word": " ass "
+  },
+  {
+    "name": "sidenavjs",
+    "word": " shit "
+  },
+  {
+    "name": "baldrick",
+    "word": " fucked "
+  },
+  {
+    "name": "linearleastsquarescurvefit",
+    "word": " xxx "
+  },
+  {
+    "name": "willy",
+    "word": " willy "
+  },
+  {
+    "name": "fuckyou",
+    "word": " fuck "
+  },
+  {
+    "name": "flowfact",
+    "word": " hell "
+  },
+  {
+    "name": "slinker",
+    "word": " hell "
+  },
+  {
+    "name": "generator-eggs-genny",
+    "word": " fucking "
+  },
+  {
+    "name": "generator-eggs-genny",
+    "word": " shit "
+  },
+  {
+    "name": "lifeofcat",
+    "word": " fucking "
+  },
+  {
+    "name": "x-windows",
+    "word": " hell "
+  },
+  {
+    "name": "i18n-abide-plurals",
+    "word": " hell "
+  },
+  {
+    "name": "japanese",
+    "word": " shi+ "
+  },
+  {
+    "name": "quadtreejs",
+    "word": " shit "
+  },
+  {
+    "name": "biliass",
+    "word": " ass "
+  },
+  {
+    "name": "react-knob",
+    "word": " knob "
+  },
+  {
+    "name": "datestring",
+    "word": " hell "
+  },
+  {
+    "name": "menu-element",
+    "word": " poop "
+  },
+  {
+    "name": "launch-control-xl",
+    "word": " knob "
+  },
+  {
+    "name": "orch",
+    "word": " bastard "
+  },
+  {
+    "name": "tinymusic",
+    "word": " fucking "
+  },
+  {
+    "name": "moron",
+    "word": " hell "
+  },
+  {
+    "name": "no-jquery-in-routes-controllers-models",
+    "word": " shitty "
+  },
+  {
+    "name": "kytea",
+    "word": " pron "
+  },
+  {
+    "name": "meteor-webpack-react-kickstart",
+    "word": " hell "
+  },
+  {
+    "name": "artsy-xapp",
+    "word": " hell "
+  },
+  {
+    "name": "page-walker",
+    "word": " God "
+  },
+  {
+    "name": "profanity-util",
+    "word": " damn "
+  },
+  {
+    "name": "profanity-util",
+    "word": " poop "
+  },
+  {
+    "name": "mongoose-profanity",
+    "word": " bloody "
+  },
+  {
+    "name": "mongoose-profanity",
+    "word": " damn "
+  },
+  {
+    "name": "tail-follow",
+    "word": " knob "
+  },
+  {
+    "name": "angularjs-distribute-transclude",
+    "word": " butt "
+  },
+  {
+    "name": "loopback-schema-checker",
+    "word": " sex "
+  },
+  {
+    "name": "gnocchi",
+    "word": " motherfucker "
+  },
+  {
+    "name": "chess-ai-kong",
+    "word": " pawn "
+  },
+  {
+    "name": "node-spinny",
+    "word": " ass "
+  },
+  {
+    "name": "bytewise-uri",
+    "word": " screwing "
+  },
+  {
+    "name": "interfacelift-downloader",
+    "word": " bastard "
+  },
+  {
+    "name": "cost",
+    "word": " xxx "
+  },
+  {
+    "name": "angular-distribute-transclude",
+    "word": " butt "
+  },
+  {
+    "name": "nomad-cli",
+    "word": " willy "
+  },
+  {
+    "name": "angular-cressida",
+    "word": " ass "
+  },
+  {
+    "name": "source-map-peek",
+    "word": " shitty "
+  },
+  {
+    "name": "dagon",
+    "word": " goddamn "
+  },
+  {
+    "name": "hubot-awyisser",
+    "word": " fuckin "
+  },
+  {
+    "name": "bpmv",
+    "word": " piss "
+  },
+  {
+    "name": "concentration",
+    "word": " shit "
+  },
+  {
+    "name": "shitty-ask",
+    "word": " shitty "
+  },
+  {
+    "name": "poopthis",
+    "word": " poop "
+  },
+  {
+    "name": "havelock",
+    "word": " balls "
+  },
+  {
+    "name": "cordova-plugin-node",
+    "word": " screwing "
+  },
+  {
+    "name": "passport-rememberme",
+    "word": " asses "
+  },
+  {
+    "name": "aws-pony",
+    "word": " willy "
+  },
+  {
+    "name": "tgi-interface-createjs",
+    "word": " fuck "
+  },
+  {
+    "name": "x-address-codec",
+    "word": " hell "
+  },
+  {
+    "name": "figshare",
+    "word": " bloody "
+  },
+  {
+    "name": "ghost-grid",
+    "word": " hell "
+  },
+  {
+    "name": "scrapper-x",
+    "word": " hell "
+  },
+  {
+    "name": "min-signal",
+    "word": " penis "
+  },
+  {
+    "name": "node.docker",
+    "word": " shitty "
+  },
+  {
+    "name": "idioc",
+    "word": " shit "
+  },
+  {
+    "name": "ilib",
+    "word": " balls "
+  },
+  {
+    "name": "kad-boilerplate",
+    "word": " damn "
+  },
+  {
+    "name": "dmn",
+    "word": " goddamn "
+  },
+  {
+    "name": "bible",
+    "word": " God "
+  },
+  {
+    "name": "att",
+    "word": " xxx "
+  },
+  {
+    "name": "passport-remember-me-extended",
+    "word": " asses "
+  },
+  {
+    "name": "gravityball",
+    "word": " balls "
+  },
+  {
+    "name": "gnip",
+    "word": " xxx "
+  },
+  {
+    "name": "mue",
+    "word": " damn "
+  },
+  {
+    "name": "turnbull",
+    "word": " shit "
+  },
+  {
+    "name": "t-validator",
+    "word": " hell "
+  },
+  {
+    "name": "stringfy",
+    "word": " shits "
+  },
+  {
+    "name": "hubot-assign-pr",
+    "word": " hell "
+  },
+  {
+    "name": "fullscreener",
+    "word": " shit "
+  },
+  {
+    "name": "sgtcloud-html5-sdk",
+    "word": " damn "
+  },
+  {
+    "name": "node-chess",
+    "word": " pawn "
+  },
+  {
+    "name": "problumz",
+    "word": " hell "
+  },
+  {
+    "name": "angular-cache-service",
+    "word": " s.o.b. "
+  },
+  {
+    "name": "syringejs",
+    "word": " prick "
+  },
+  {
+    "name": "node-root",
+    "word": " hell "
+  },
+  {
+    "name": "arrayfire_js",
+    "word": " hell "
+  },
+  {
+    "name": "mustache-to-file",
+    "word": " ass "
+  },
+  {
+    "name": "jquerygofix",
+    "word": " hell "
+  },
+  {
+    "name": "react-console",
+    "word": " bugger "
+  },
+  {
+    "name": "apido",
+    "word": " shit "
+  },
+  {
+    "name": "nodechargify",
+    "word": " hell "
+  },
+  {
+    "name": "node-style-guide",
+    "word": " hell "
+  },
+  {
+    "name": "node-style-guide",
+    "word": " shit "
+  },
+  {
+    "name": "redux-viewmodel",
+    "word": " xxx "
+  },
+  {
+    "name": "famous-autofontsizesurface",
+    "word": " cum "
+  },
+  {
+    "name": "react-app-context-mixin",
+    "word": " screwing "
+  },
+  {
+    "name": "yaml-include",
+    "word": " damn "
+  },
+  {
+    "name": "knex-dal",
+    "word": " shitty "
+  },
+  {
+    "name": "hubot-bible-api",
+    "word": " cum "
+  },
+  {
+    "name": "hubot-bible-api",
+    "word": " God "
+  },
+  {
+    "name": "funsyn",
+    "word": " shit "
+  },
+  {
+    "name": "vk-music",
+    "word": " fucking "
+  },
+  {
+    "name": "thunderstorm-ide",
+    "word": " shit "
+  },
+  {
+    "name": "ng-imgur",
+    "word": " balls "
+  },
+  {
+    "name": "mongotagger",
+    "word": " bloody "
+  },
+  {
+    "name": "boggle",
+    "word": " hell "
+  },
+  {
+    "name": "declutter",
+    "word": " crap "
+  },
+  {
+    "name": "react-the-final-countdown",
+    "word": " bloody "
+  },
+  {
+    "name": "js-logger-aknudsen",
+    "word": " damn "
+  },
+  {
+    "name": "damp",
+    "word": " retard "
+  },
+  {
+    "name": "bravia-subtitles",
+    "word": " crap "
+  },
+  {
+    "name": "crispy",
+    "word": " hell "
+  },
+  {
+    "name": "crispy",
+    "word": " shit "
+  },
+  {
+    "name": "postcss-colorblind",
+    "word": " damn "
+  },
+  {
+    "name": "angular-bower-to-cdn",
+    "word": " shitty "
+  },
+  {
+    "name": "camouflage",
+    "word": " hell "
+  },
+  {
+    "name": "gulp-files-to-json",
+    "word": " shitty "
+  },
+  {
+    "name": "cognition-kit",
+    "word": " crap "
+  },
+  {
+    "name": "http-promises-async",
+    "word": " God "
+  },
+  {
+    "name": "blargs",
+    "word": " hell "
+  },
+  {
+    "name": "audiostreamsource.js",
+    "word": " shitty "
+  },
+  {
+    "name": "posix-argv-parser",
+    "word": " ass "
+  },
+  {
+    "name": "mdconf",
+    "word": " hell "
+  },
+  {
+    "name": "syzer-level-naive-bayes",
+    "word": " shitty "
+  },
+  {
+    "name": "keykit",
+    "word": " shit "
+  },
+  {
+    "name": "lazy-line-painter",
+    "word": " butt "
+  },
+  {
+    "name": "grunt-workflow-hooks",
+    "word": " crap "
+  },
+  {
+    "name": "grunt-workflow-hooks",
+    "word": " hell "
+  },
+  {
+    "name": "hi-base64",
+    "word": " lust "
+  },
+  {
+    "name": "angular-template-cache-brunch",
+    "word": " pisses "
+  },
+  {
+    "name": "angular-template-cache-brunch",
+    "word": " shit "
+  },
+  {
+    "name": "request-sanitizer",
+    "word": " sex "
+  },
+  {
+    "name": "gulp-karma-run",
+    "word": " shit "
+  },
+  {
+    "name": "hubot-watcher",
+    "word": " fucking "
+  },
+  {
+    "name": "bloody-simple-sqs",
+    "word": " bloody "
+  },
+  {
+    "name": "promise.io",
+    "word": " hell "
+  },
+  {
+    "name": "svnode",
+    "word": " ass "
+  },
+  {
+    "name": "same-encoder",
+    "word": " willies "
+  },
+  {
+    "name": "kana",
+    "word": " hell "
+  },
+  {
+    "name": "hmhyr",
+    "word": " crap "
+  },
+  {
+    "name": "difftest-runner",
+    "word": " damn "
+  },
+  {
+    "name": "difftest-runner",
+    "word": " hell "
+  },
+  {
+    "name": "alchemy.js",
+    "word": " God "
+  },
+  {
+    "name": "jasmine-co",
+    "word": " hell "
+  },
+  {
+    "name": "tachyons-flex",
+    "word": " ass "
+  },
+  {
+    "name": "bucketful",
+    "word": " bloody "
+  },
+  {
+    "name": "block-stream2",
+    "word": " fag "
+  },
+  {
+    "name": "meteor-mysql",
+    "word": " balls "
+  },
+  {
+    "name": "meteor-mysql",
+    "word": " God "
+  },
+  {
+    "name": "awesome_project",
+    "word": " hell "
+  },
+  {
+    "name": "soulmates_foundation_base",
+    "word": " hell "
+  },
+  {
+    "name": "emo2",
+    "word": " hell "
+  },
+  {
+    "name": "profanity-pgp",
+    "word": " anal "
+  },
+  {
+    "name": "profanity-pgp",
+    "word": " ass "
+  },
+  {
+    "name": "profanity-pgp",
+    "word": " asshole "
+  },
+  {
+    "name": "profanity-pgp",
+    "word": " balls "
+  },
+  {
+    "name": "profanity-pgp",
+    "word": " bastard "
+  },
+  {
+    "name": "profanity-pgp",
+    "word": " bitch "
+  },
+  {
+    "name": "profanity-pgp",
+    "word": " cock "
+  },
+  {
+    "name": "profanity-pgp",
+    "word": " crap "
+  },
+  {
+    "name": "profanity-pgp",
+    "word": " cunt "
+  },
+  {
+    "name": "profanity-pgp",
+    "word": " damn "
+  },
+  {
+    "name": "profanity-pgp",
+    "word": " dick "
+  },
+  {
+    "name": "profanity-pgp",
+    "word": " dickhead "
+  },
+  {
+    "name": "profanity-pgp",
+    "word": " dildo "
+  },
+  {
+    "name": "profanity-pgp",
+    "word": " fanny "
+  },
+  {
+    "name": "profanity-pgp",
+    "word": " fuck "
+  },
+  {
+    "name": "profanity-pgp",
+    "word": " fucker "
+  },
+  {
+    "name": "profanity-pgp",
+    "word": " fucking "
+  },
+  {
+    "name": "profanity-pgp",
+    "word": " goddamn "
+  },
+  {
+    "name": "profanity-pgp",
+    "word": " motherfucker "
+  },
+  {
+    "name": "profanity-pgp",
+    "word": " motherfucking "
+  },
+  {
+    "name": "profanity-pgp",
+    "word": " piss "
+  },
+  {
+    "name": "profanity-pgp",
+    "word": " pussy "
+  },
+  {
+    "name": "profanity-pgp",
+    "word": " shit "
+  },
+  {
+    "name": "profanity-pgp",
+    "word": " shitter "
+  },
+  {
+    "name": "profanity-pgp",
+    "word": " skank "
+  },
+  {
+    "name": "profanity-pgp",
+    "word": " slut "
+  },
+  {
+    "name": "profanity-pgp",
+    "word": " tit "
+  },
+  {
+    "name": "profanity-pgp",
+    "word": " turd "
+  },
+  {
+    "name": "profanity-pgp",
+    "word": " twat "
+  },
+  {
+    "name": "profanity-pgp",
+    "word": " wanker "
+  },
+  {
+    "name": "profanity-pgp",
+    "word": " whore "
+  },
+  {
+    "name": "pitboss-ng",
+    "word": " damn "
+  },
+  {
+    "name": "pitboss-ng",
+    "word": " shitty "
+  },
+  {
+    "name": "js-logger",
+    "word": " damn "
+  },
+  {
+    "name": "gulp-angular-components",
+    "word": " fucking "
+  },
+  {
+    "name": "native-constants",
+    "word": " God "
+  },
+  {
+    "name": "slush-angular-components",
+    "word": " fuck "
+  },
+  {
+    "name": "slush-angular-components",
+    "word": " fucking "
+  },
+  {
+    "name": "narrative",
+    "word": " butt "
+  },
+  {
+    "name": "mmap-io",
+    "word": " hell "
+  },
+  {
+    "name": "yet-another-name-generator",
+    "word": " bloody "
+  },
+  {
+    "name": "chucknorris",
+    "word": " shit "
+  },
+  {
+    "name": "get-sentences-from-article",
+    "word": " balls "
+  },
+  {
+    "name": "compozecli",
+    "word": " fuck "
+  },
+  {
+    "name": "cmpz",
+    "word": " fuck "
+  },
+  {
+    "name": "cook-export",
+    "word": " shit "
+  },
+  {
+    "name": "avatar-generator",
+    "word": " sex "
+  },
+  {
+    "name": "parsetime",
+    "word": " fucking "
+  },
+  {
+    "name": "js-queue",
+    "word": " willy "
+  },
+  {
+    "name": "ppjson",
+    "word": " damn "
+  },
+  {
+    "name": "wolfram-fit",
+    "word": " breasts "
+  },
+  {
+    "name": "ssml",
+    "word": " balls "
+  },
+  {
+    "name": "head-master",
+    "word": " God "
+  },
+  {
+    "name": "deployver",
+    "word": " damn "
+  },
+  {
+    "name": "generator-makeme",
+    "word": " shit "
+  },
+  {
+    "name": "unrar.js",
+    "word": " damn "
+  },
+  {
+    "name": "generator-makeme-famous",
+    "word": " shit "
+  },
+  {
+    "name": "chibijs",
+    "word": " bugger "
+  },
+  {
+    "name": "json-ptr",
+    "word": " hell "
+  },
+  {
+    "name": "toubkal",
+    "word": " hell "
+  },
+  {
+    "name": "make-json-request",
+    "word": " crap "
+  },
+  {
+    "name": "mouldjs",
+    "word": " sex "
+  },
+  {
+    "name": "vide",
+    "word": " hell "
+  },
+  {
+    "name": "goby",
+    "word": " hell "
+  },
+  {
+    "name": "getkeys",
+    "word": " sex "
+  },
+  {
+    "name": "sortobj2str",
+    "word": " sex "
+  },
+  {
+    "name": "growthmethods",
+    "word": " sex "
+  },
+  {
+    "name": "tagspewer",
+    "word": " dick "
+  },
+  {
+    "name": "ponyshow",
+    "word": " damn "
+  },
+  {
+    "name": "alexa-uncensor",
+    "word": " fucking "
+  },
+  {
+    "name": "godly",
+    "word": " God "
+  },
+  {
+    "name": "node-legofy",
+    "word": " hell "
+  },
+  {
+    "name": "eslint-plugin-tdd",
+    "word": " fuck "
+  },
+  {
+    "name": "blue-lobster",
+    "word": " butt "
+  },
+  {
+    "name": "libjass",
+    "word": " ass "
+  },
+  {
+    "name": "i18n-abide",
+    "word": " hell "
+  },
+  {
+    "name": "pornhub",
+    "word": " sex "
+  },
+  {
+    "name": "fb-react-sdk",
+    "word": " hell "
+  },
+  {
+    "name": "boscode",
+    "word": " xxx "
+  },
+  {
+    "name": "fuck-shit-up",
+    "word": " fuck "
+  },
+  {
+    "name": "fuck-shit-up",
+    "word": " fucking "
+  },
+  {
+    "name": "salestock-backend-ta",
+    "word": " hell "
+  },
+  {
+    "name": "query-overpass",
+    "word": " shit "
+  },
+  {
+    "name": "regular-old-enum",
+    "word": " shit "
+  },
+  {
+    "name": "fuck-you",
+    "word": " bloody "
+  },
+  {
+    "name": "fuck-you",
+    "word": " fuck "
+  },
+  {
+    "name": "only-loader",
+    "word": " damn "
+  },
+  {
+    "name": "corsair-rgb",
+    "word": " fuck "
+  },
+  {
+    "name": "corsair-rgb",
+    "word": " fucking "
+  },
+  {
+    "name": "vmv",
+    "word": " hell "
+  },
+  {
+    "name": "disposable-seraph",
+    "word": " hell "
+  },
+  {
+    "name": "meteor-standalone-npm-tinytest",
+    "word": " xxx "
+  },
+  {
+    "name": "mantis-querist",
+    "word": " fucking "
+  },
+  {
+    "name": "compel",
+    "word": " bloody "
+  },
+  {
+    "name": "@polymer/paper-slider",
+    "word": " knob "
+  },
+  {
+    "name": "v42-node-style-guide",
+    "word": " hell "
+  },
+  {
+    "name": "v42-node-style-guide",
+    "word": " shit "
+  },
+  {
+    "name": "nodemcu-timer",
+    "word": " ass "
+  },
+  {
+    "name": "jira-term",
+    "word": " shit "
+  },
+  {
+    "name": "cokedeluxe",
+    "word": " sex "
+  },
+  {
+    "name": "ircaddon",
+    "word": " sex "
+  },
+  {
+    "name": "litechat",
+    "word": " sex "
+  },
+  {
+    "name": "chatkit",
+    "word": " sex "
+  },
+  {
+    "name": "order.less",
+    "word": " cum "
+  },
+  {
+    "name": "gulp-angular-translate-extract",
+    "word": " xxx "
+  },
+  {
+    "name": "gulp-sentry-release",
+    "word": " ass "
+  },
+  {
+    "name": "qrcode-svg",
+    "word": " xxx "
+  },
+  {
+    "name": "lossless-json",
+    "word": " screwing "
+  },
+  {
+    "name": "showdown-hugopress",
+    "word": " screwing "
+  },
+  {
+    "name": "semantic-editor-js",
+    "word": " poop "
+  },
+  {
+    "name": "dummy-json",
+    "word": " xxx "
+  },
+  {
+    "name": "skeleton-assistant",
+    "word": " ass "
+  },
+  {
+    "name": "promonce",
+    "word": " hell "
+  },
+  {
+    "name": "quick-loader",
+    "word": " penis "
+  },
+  {
+    "name": "destupidify",
+    "word": " fucking "
+  },
+  {
+    "name": "backbone.stickit",
+    "word": " hell "
+  },
+  {
+    "name": "respond.js",
+    "word": " damn "
+  },
+  {
+    "name": "pcm2wav",
+    "word": " God "
+  },
+  {
+    "name": "mr-rogers",
+    "word": " ass "
+  },
+  {
+    "name": "badssl",
+    "word": " crap "
+  },
+  {
+    "name": "angular-errorlookup",
+    "word": " damn "
+  },
+  {
+    "name": "angular-errorlookup",
+    "word": " shit "
+  },
+  {
+    "name": "conkie",
+    "word": " screwing "
+  },
+  {
+    "name": "np-knob",
+    "word": " knob "
+  },
+  {
+    "name": "himesama",
+    "word": " ass "
+  },
+  {
+    "name": "dx",
+    "word": " crap "
+  },
+  {
+    "name": "generator-dnn-theme",
+    "word": " hell "
+  },
+  {
+    "name": "grunt-angular-translate",
+    "word": " xxx "
+  },
+  {
+    "name": "react-igor",
+    "word": " crap "
+  },
+  {
+    "name": "method-throttle",
+    "word": " pissed "
+  },
+  {
+    "name": "node-http-server",
+    "word": " willy "
+  },
+  {
+    "name": "ioredis-etcd",
+    "word": " xxx "
+  },
+  {
+    "name": "dmd-bitbucket",
+    "word": " shit "
+  },
+  {
+    "name": "isikukood",
+    "word": " sex "
+  },
+  {
+    "name": "fixed-object",
+    "word": " crap "
+  },
+  {
+    "name": "fixed-object",
+    "word": " shit "
+  },
+  {
+    "name": "snap.js",
+    "word": " ass "
+  },
+  {
+    "name": "neft-dev",
+    "word": " pissed "
+  },
+  {
+    "name": "backboard",
+    "word": " fuck "
+  },
+  {
+    "name": "deploy-joyent",
+    "word": " xxx "
+  },
+  {
+    "name": "load",
+    "word": " fuck "
+  },
+  {
+    "name": "angular-translate-extract",
+    "word": " xxx "
+  },
+  {
+    "name": "simple-overloading",
+    "word": " sex "
+  },
+  {
+    "name": "naivebayesclassifier",
+    "word": " shitty "
+  },
+  {
+    "name": "graceful-chokidar",
+    "word": " shitty "
+  },
+  {
+    "name": "is-taken-cli",
+    "word": " fuck "
+  },
+  {
+    "name": "hell",
+    "word": " hell "
+  },
+  {
+    "name": "mockbuilder",
+    "word": " homo "
+  },
+  {
+    "name": "filepreview",
+    "word": " ass "
+  },
+  {
+    "name": "arrayfire-js",
+    "word": " hell "
+  },
+  {
+    "name": "stratum-solo",
+    "word": " hell "
+  },
+  {
+    "name": "babel-plugin-replace-current-module",
+    "word": " xxx "
+  },
+  {
+    "name": "baji",
+    "word": " hell "
+  },
+  {
+    "name": "tris3d-ai",
+    "word": " bastard "
+  },
+  {
+    "name": "bigpipe-example",
+    "word": " hell "
+  },
+  {
+    "name": "check1.js",
+    "word": " piss "
+  },
+  {
+    "name": "record-jar",
+    "word": " hell "
+  },
+  {
+    "name": "babel-plugin-global-require",
+    "word": " hell "
+  },
+  {
+    "name": "@tradle/bitcoinjs-lib",
+    "word": " crap "
+  },
+  {
+    "name": "react-editor",
+    "word": " fucking "
+  },
+  {
+    "name": "ember-bootstrap-typeahead",
+    "word": " crap "
+  },
+  {
+    "name": "winprint",
+    "word": " shits "
+  },
+  {
+    "name": "nbayes",
+    "word": " shitty "
+  },
+  {
+    "name": "every-fuckin-time",
+    "word": " fuckin "
+  },
+  {
+    "name": "profanity-cleanser",
+    "word": " ass "
+  },
+  {
+    "name": "profanity-cleanser",
+    "word": " shit "
+  },
+  {
+    "name": "zap-base-dom-element-transition",
+    "word": " shit "
+  },
+  {
+    "name": "tabletop",
+    "word": " hell "
+  },
+  {
+    "name": "redux-auth",
+    "word": " skank "
+  },
+  {
+    "name": "no-sheet-reset",
+    "word": " shit "
+  },
+  {
+    "name": "spoiler-alert",
+    "word": " fucking "
+  },
+  {
+    "name": "bebusy",
+    "word": " fucking "
+  },
+  {
+    "name": "bebusy",
+    "word": " motherfucker "
+  },
+  {
+    "name": "react-native-sk-validatable-form",
+    "word": " sex "
+  },
+  {
+    "name": "eslint-config-jessy",
+    "word": " balls "
+  },
+  {
+    "name": "ohhellyeah",
+    "word": " hell "
+  },
+  {
+    "name": "ga-javascript-sdk",
+    "word": " snatch "
+  },
+  {
+    "name": "leverage",
+    "word": " crap "
+  },
+  {
+    "name": "waitfor.it",
+    "word": " hell "
+  },
+  {
+    "name": "bugger",
+    "word": " bugger "
+  },
+  {
+    "name": "wx-api-hugh",
+    "word": " xxx "
+  },
+  {
+    "name": "tripledollar",
+    "word": " butt "
+  },
+  {
+    "name": "exception",
+    "word": " fucked "
+  },
+  {
+    "name": "@chickendinosaur/pool",
+    "word": " hell "
+  },
+  {
+    "name": "string-pad",
+    "word": " fuck "
+  },
+  {
+    "name": "badword-util",
+    "word": " ass "
+  },
+  {
+    "name": "badword-util",
+    "word": " shit "
+  },
+  {
+    "name": "censorityjs",
+    "word": " shit "
+  },
+  {
+    "name": "editorconfig-fix",
+    "word": " damn "
+  },
+  {
+    "name": "react-project",
+    "word": " crap "
+  },
+  {
+    "name": "compoze-cli",
+    "word": " fuck "
+  },
+  {
+    "name": "minions.css",
+    "word": " shit "
+  },
+  {
+    "name": "fepro",
+    "word": " xxx "
+  },
+  {
+    "name": "wait.for",
+    "word": " hell "
+  },
+  {
+    "name": "registry-static",
+    "word": " crap "
+  },
+  {
+    "name": "dem-feels",
+    "word": " fuck "
+  },
+  {
+    "name": "tays",
+    "word": " hell "
+  },
+  {
+    "name": "validator.ts",
+    "word": " hell "
+  },
+  {
+    "name": "jquery-word-and-character-counter-plugin",
+    "word": " ass "
+  },
+  {
+    "name": "dumpert.js",
+    "word": " pissed "
+  },
+  {
+    "name": "ngn4",
+    "word": " shitty "
+  },
+  {
+    "name": "node-uglifier",
+    "word": " ass "
+  },
+  {
+    "name": "fuhk",
+    "word": " fuck "
+  },
+  {
+    "name": "manifest",
+    "word": " bloody "
+  },
+  {
+    "name": "tgi-core",
+    "word": " shit "
+  },
+  {
+    "name": "toothpick",
+    "word": " hell "
+  },
+  {
+    "name": "coreslider",
+    "word": " hell "
+  },
+  {
+    "name": "nodestream-filesystem",
+    "word": " hell "
+  },
+  {
+    "name": "homebridge-pet-feeder",
+    "word": " shits "
+  },
+  {
+    "name": "downcache",
+    "word": " damn "
+  },
+  {
+    "name": "screener",
+    "word": " butt "
+  },
+  {
+    "name": "bdsmjs",
+    "word": " ass "
+  },
+  {
+    "name": "msg-generator",
+    "word": " fucking "
+  },
+  {
+    "name": "hanging-indent",
+    "word": " fanny "
+  },
+  {
+    "name": "crap",
+    "word": " crap "
+  },
+  {
+    "name": "damnjs",
+    "word": " damn "
+  },
+  {
+    "name": "filesys-db",
+    "word": " pissed "
+  },
+  {
+    "name": "iotdb-smartthings",
+    "word": " arse "
+  },
+  {
+    "name": "oribella-framework",
+    "word": " hell "
+  },
+  {
+    "name": "boscode-learn",
+    "word": " xxx "
+  },
+  {
+    "name": "babel-plugin-looptar",
+    "word": " butt "
+  },
+  {
+    "name": "critic",
+    "word": " shit "
+  },
+  {
+    "name": "fixnode",
+    "word": " shitty "
+  },
+  {
+    "name": "remove-fb-hash",
+    "word": " ass "
+  },
+  {
+    "name": "sleep-schedule",
+    "word": " shitty "
+  },
+  {
+    "name": "npm-run-posix-or-windows",
+    "word": " hell "
+  },
+  {
+    "name": "sfm",
+    "word": " fucking "
+  },
+  {
+    "name": "sfm",
+    "word": " shit "
+  },
+  {
+    "name": "altair.io",
+    "word": " ass "
+  },
+  {
+    "name": "nonote",
+    "word": " shit "
+  },
+  {
+    "name": "otolane-data-access",
+    "word": " crap "
+  },
+  {
+    "name": "wordpos",
+    "word": " bum "
+  },
+  {
+    "name": "water-fall",
+    "word": " xxx "
+  },
+  {
+    "name": "pm2-zabbix",
+    "word": " God "
+  },
+  {
+    "name": "@bahmutov/parse-github-repo-url",
+    "word": " damn "
+  },
+  {
+    "name": "forky",
+    "word": " hell "
+  },
+  {
+    "name": "jef",
+    "word": " shit "
+  },
+  {
+    "name": "f2etest-jsunit",
+    "word": " xxx "
+  },
+  {
+    "name": "generator-espm-plugin",
+    "word": " xxx "
+  },
+  {
+    "name": "aamva",
+    "word": " sex "
+  },
+  {
+    "name": "@3rd-party-bouncer/bouncer",
+    "word": " xxx "
+  },
+  {
+    "name": "parse-github-repo-url",
+    "word": " damn "
+  },
+  {
+    "name": "telegrammer",
+    "word": " hell "
+  },
+  {
+    "name": "zombiebox-platform-webos",
+    "word": " xxx "
+  },
+  {
+    "name": "benchmarket",
+    "word": " xxx "
+  },
+  {
+    "name": "turnkey",
+    "word": " s.o.b. "
+  },
+  {
+    "name": "evda",
+    "word": " hell "
+  },
+  {
+    "name": "evda",
+    "word": " screwing "
+  },
+  {
+    "name": "npm-yaml",
+    "word": " hell "
+  },
+  {
+    "name": "botdylan",
+    "word": " damn "
+  },
+  {
+    "name": "sword",
+    "word": " God "
+  },
+  {
+    "name": "big-damn-heroes",
+    "word": " hell "
+  },
+  {
+    "name": "contraktor",
+    "word": " damn "
+  },
+  {
+    "name": "contraktor",
+    "word": " hell "
+  },
+  {
+    "name": "knob",
+    "word": " knob "
+  },
+  {
+    "name": "fczbkk-template",
+    "word": " xxx "
+  },
+  {
+    "name": "examjs",
+    "word": " God "
+  },
+  {
+    "name": "damn-utils",
+    "word": " damn "
+  },
+  {
+    "name": "hubot-dexma",
+    "word": " hell "
+  },
+  {
+    "name": "nwn",
+    "word": " piss "
+  },
+  {
+    "name": "gulp-webpack-es6-pipeline",
+    "word": " crap "
+  },
+  {
+    "name": "mithril-infinite",
+    "word": " knob "
+  },
+  {
+    "name": "giffo-utils",
+    "word": " God "
+  },
+  {
+    "name": "re-framejs",
+    "word": " crap "
+  },
+  {
+    "name": "re-framejs",
+    "word": " damn "
+  },
+  {
+    "name": "scheme-validator",
+    "word": " sex "
+  },
+  {
+    "name": "sealoader",
+    "word": " xxx "
+  },
+  {
+    "name": "zombiebox-platform-mag250",
+    "word": " xxx "
+  },
+  {
+    "name": "kewler",
+    "word": " bloody "
+  },
+  {
+    "name": "react-dazzle",
+    "word": " damn "
+  },
+  {
+    "name": "system-sleep",
+    "word": " xxx "
+  },
+  {
+    "name": "copycast",
+    "word": " hell "
+  },
+  {
+    "name": "pickering-majority-text-revelation",
+    "word": " God "
+  },
+  {
+    "name": "fekit-extension-kami",
+    "word": " xxx "
+  },
+  {
+    "name": "mongoose-beautiful-unique-validation",
+    "word": " xxx "
+  },
+  {
+    "name": "bayes",
+    "word": " shitty "
+  },
+  {
+    "name": "mongoose-sluggable",
+    "word": " hell "
+  },
+  {
+    "name": "toobusy-js",
+    "word": " knob "
+  },
+  {
+    "name": "flexmix",
+    "word": " poop "
+  },
+  {
+    "name": "codenames-redux",
+    "word": " butt "
+  },
+  {
+    "name": "votifier",
+    "word": " dick "
+  },
+  {
+    "name": "votifier",
+    "word": " fuck "
+  },
+  {
+    "name": "zombiebox-platform-lg",
+    "word": " xxx "
+  },
+  {
+    "name": "zombiebox-platform-eltex",
+    "word": " xxx "
+  },
+  {
+    "name": "zombiebox-platform-samsung",
+    "word": " xxx "
+  },
+  {
+    "name": "zombiebox-platform-dune",
+    "word": " xxx "
+  },
+  {
+    "name": "inotify",
+    "word": " hell "
+  },
+  {
+    "name": "smart-npm",
+    "word": " fuckin "
+  },
+  {
+    "name": "toobusy",
+    "word": " knob "
+  },
+  {
+    "name": "tastytabs",
+    "word": " cum "
+  },
+  {
+    "name": "usbabynames",
+    "word": " sex "
+  },
+  {
+    "name": "iotdb-format",
+    "word": " bloody "
+  },
+  {
+    "name": "generator-spire",
+    "word": " hell "
+  },
+  {
+    "name": "wordscramble",
+    "word": " crap "
+  },
+  {
+    "name": "bitcoinjs-lib",
+    "word": " crap "
+  },
+  {
+    "name": "vorlon",
+    "word": " hell "
+  },
+  {
+    "name": "fibula",
+    "word": " hell "
+  },
+  {
+    "name": "rpc-websocket",
+    "word": " hell "
+  },
+  {
+    "name": "studio",
+    "word": " hell "
+  },
+  {
+    "name": "reactive-superglue",
+    "word": " bloody "
+  },
+  {
+    "name": "js-logger-pjsb",
+    "word": " damn "
+  },
+  {
+    "name": "mtg-parser",
+    "word": " God "
+  },
+  {
+    "name": "draughts",
+    "word": " pawn "
+  },
+  {
+    "name": "bayes_fixed",
+    "word": " shitty "
+  },
+  {
+    "name": "hannibal",
+    "word": " damn "
+  },
+  {
+    "name": "react-header-modal",
+    "word": " xxx "
+  },
+  {
+    "name": "chrome-remote-interface",
+    "word": " hell "
+  },
+  {
+    "name": "ljd-njord",
+    "word": " God "
+  },
+  {
+    "name": "l33teral",
+    "word": " ass "
+  },
+  {
+    "name": "immutable-js-tools",
+    "word": " hell "
+  },
+  {
+    "name": "wait",
+    "word": " hell "
+  },
+  {
+    "name": "get-a-line",
+    "word": " goddamn "
+  },
+  {
+    "name": "mirrormirroronthewall",
+    "word": " sex "
+  },
+  {
+    "name": "sqlite-bayes",
+    "word": " shitty "
+  },
+  {
+    "name": "hybridify",
+    "word": " hell "
+  },
+  {
+    "name": "bannerjs",
+    "word": " wang "
+  },
+  {
+    "name": "min-jquery",
+    "word": " fucking "
+  },
+  {
+    "name": "thrushs",
+    "word": " sex "
+  },
+  {
+    "name": "angular-baidu-map",
+    "word": " damn "
+  },
+  {
+    "name": "mongoose-base-user-plugin",
+    "word": " sex "
+  },
+  {
+    "name": "dominatr-grunt",
+    "word": " crap "
+  },
+  {
+    "name": "generator-clekyll",
+    "word": " knobhead "
+  },
+  {
+    "name": "zsolution",
+    "word": " snatch "
+  },
+  {
+    "name": "reductor",
+    "word": " shitty "
+  },
+  {
+    "name": "cls-cli",
+    "word": " xxx "
+  },
+  {
+    "name": "fun-model",
+    "word": " balls "
+  },
+  {
+    "name": "jasmine-scope-check",
+    "word": " damn "
+  },
+  {
+    "name": "s3-build-deploy",
+    "word": " hell "
+  },
+  {
+    "name": "skale-ml",
+    "word": " ass "
+  },
+  {
+    "name": "gulp-html-i18n",
+    "word": " xxx "
+  },
+  {
+    "name": "html-to-plastiq",
+    "word": " cum "
+  },
+  {
+    "name": "logicoma",
+    "word": " asshole "
+  },
+  {
+    "name": "seve",
+    "word": " hell "
+  },
+  {
+    "name": "inliner",
+    "word": " crap "
+  },
+  {
+    "name": "accelerated.api",
+    "word": " damn "
+  },
+  {
+    "name": "action-js",
+    "word": " hell "
+  },
+  {
+    "name": "action-js",
+    "word": " xxx "
+  },
+  {
+    "name": "surf-build",
+    "word": " ass "
+  },
+  {
+    "name": "randomcrap",
+    "word": " crap "
+  },
+  {
+    "name": "delete-property",
+    "word": " damn "
+  },
+  {
+    "name": "nodeice",
+    "word": " xxx "
+  },
+  {
+    "name": "gulpman",
+    "word": " xxx "
+  },
+  {
+    "name": "wrap-text",
+    "word": " cum "
+  },
+  {
+    "name": "pxx",
+    "word": " crap "
+  },
+  {
+    "name": "wcj",
+    "word": " wang "
+  },
+  {
+    "name": "nyx_server",
+    "word": " xxx "
+  },
+  {
+    "name": "package-skeleton",
+    "word": " xxx "
+  },
+  {
+    "name": "fake-api",
+    "word": " butt "
+  },
+  {
+    "name": "deasync",
+    "word": " pissing "
+  },
+  {
+    "name": "curious-cli",
+    "word": " hell "
+  },
+  {
+    "name": "check-it",
+    "word": " hell "
+  },
+  {
+    "name": "dblayer",
+    "word": " pissed "
+  },
+  {
+    "name": "kev",
+    "word": " damn "
+  },
+  {
+    "name": "fbgraph",
+    "word": " hell "
+  },
+  {
+    "name": "should-update",
+    "word": " hell "
+  },
+  {
+    "name": "domt",
+    "word": " xxx "
+  },
+  {
+    "name": "react-cookie-banner",
+    "word": " fuck "
+  },
+  {
+    "name": "diff",
+    "word": " boob "
+  },
+  {
+    "name": "after-effects",
+    "word": " hell "
+  },
+  {
+    "name": "pw-butts",
+    "word": " butt "
+  },
+  {
+    "name": "spiderworks",
+    "word": " hell "
+  },
+  {
+    "name": "gulp-sequence",
+    "word": " xxx "
+  },
+  {
+    "name": "project-nexus",
+    "word": " shitty "
+  },
+  {
+    "name": "ideo-metric",
+    "word": " bitch "
+  },
+  {
+    "name": "ideo-metric",
+    "word": " hell "
+  },
+  {
+    "name": "freebird_sdk",
+    "word": " xxx "
+  },
+  {
+    "name": "knob-js",
+    "word": " knob "
+  },
+  {
+    "name": "bloody-simple-s3",
+    "word": " bloody "
+  },
+  {
+    "name": "mustache",
+    "word": " ass "
+  },
+  {
+    "name": "project-oxford",
+    "word": " sex "
+  },
+  {
+    "name": "code-mirror-themes",
+    "word": " crap "
+  },
+  {
+    "name": "improv",
+    "word": " God "
+  },
+  {
+    "name": "promix",
+    "word": " hell "
+  },
+  {
+    "name": "nci-classic-ui",
+    "word": " damn "
+  },
+  {
+    "name": "jigsass-tools-selectors",
+    "word": " damn "
+  },
+  {
+    "name": "chunk2json",
+    "word": " goddamn "
+  },
+  {
+    "name": "modal.js",
+    "word": " God "
+  },
+  {
+    "name": "zhihu",
+    "word": " sex "
+  },
+  {
+    "name": "ass-to-vtt",
+    "word": " ass "
+  },
+  {
+    "name": "babel-plugin-incremental-dom",
+    "word": " screwing "
+  },
+  {
+    "name": "alinex-validator",
+    "word": " lust "
+  },
+  {
+    "name": "alinex-validator",
+    "word": " xxx "
+  },
+  {
+    "name": "mtpr",
+    "word": " xxx "
+  },
+  {
+    "name": "angular-leaflet-light",
+    "word": " hell "
+  },
+  {
+    "name": "twgl-base.js",
+    "word": " shit "
+  },
+  {
+    "name": "ithas",
+    "word": " shitty "
+  },
+  {
+    "name": "react-walk",
+    "word": " shit "
+  },
+  {
+    "name": "dompurify",
+    "word": " bloody "
+  },
+  {
+    "name": "dompurify",
+    "word": " damn "
+  },
+  {
+    "name": "chess.js",
+    "word": " pawn "
+  }
+]
