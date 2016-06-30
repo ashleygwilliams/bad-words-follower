@@ -2,16 +2,15 @@ const fs = require('fs');
 
 const changes = require('concurrent-couch-follower');
 const Request = require('request');
+const bad_words = require('badwords/array').map(function(word) {
+  return " " + word + " ";
+});
 
 const db = 'https://replicate.npmjs.com';
 
 Request.get(db, function(err, req, body) {
   var end_sequence = JSON.parse(body).update_seq;
   var results = [];
-  var bad_words = fs.readFileSync('./bad-words.txt', 'utf-8').split('\n').slice(0, -1).map(function(word) {
-    return " " + word + " ";
-  });
-  console.log(JSON.stringify(bad_words));
   changes(function(change, done) {
     if (change.seq >= end_sequence) {
       fs.writeFileSync("results.txt", JSON.stringify(results, null, 2))
@@ -33,6 +32,7 @@ Request.get(db, function(err, req, body) {
     done();
   }, {
     db: db,
-    include_docs: true
+    include_docs: true,
+    now:false
   })
 });
