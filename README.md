@@ -17,4 +17,5 @@ this repo also only checks for the words in isolate (" word "), not as a word pa
 
 1. Fork and clone this repository
 2. `cd bad-words-follower`
-3. `npm start`
+3. `npm install`
+4. `npm start`
